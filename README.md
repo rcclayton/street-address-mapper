@@ -11,5 +11,4 @@
 
 
 
- Rebeca Carrillo-Clayton, 2015
- rc@rcclayton.com
+ Rebeca Carrillo 2015
